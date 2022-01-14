@@ -9,12 +9,14 @@
   margin-right: 0;
   width: 100%;
   margin-top: 3em;
-  color: $muted-text-color;
+  color: black;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $footer-background-color;
+  background-color: $background-color;
+  display: flex;
+  justify-content: center;
 
   footer {
     @include clearfix;
@@ -30,7 +32,7 @@
   }
 
   a {
-    color: inherit;
+    color: black;
     text-decoration: none;
 
     &:hover {
@@ -42,13 +44,14 @@
   .fab,
   .far,
   .fal {
-    color: $muted-text-color;
+    color: black;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  color: black;
 }
 
 .page__footer-follow {
@@ -59,7 +62,7 @@
   }
 
   li {
-    display: inline-block;
+    display: none;
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
