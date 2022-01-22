@@ -113,7 +113,7 @@ selectItems("red");  //->Nope!
 차 색을 selectItems라는 함수에 넣어주면 색에 따라서 결과 값이 반환된다.
 각 색마다 주인들이 있고 yellow, black,blue 세가지 색 전부 아니면 우리 가족이 소유한 차가 아니다.
 
-```
+```javascript
 let a=5;
 //if ,else if 
 if(a>4){
@@ -140,7 +140,7 @@ if문을 여러개 사용할 때 와 else, else, else if, if를 이용하여 조
 
 ### 삼항연산자
 
-```
+```javascript
 let a= true;
 let b = false;
 console.log(b ? "1" : "2");
