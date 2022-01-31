@@ -40,7 +40,7 @@ value : 'kys', {country : 'korea',city : 'seoul'}, 33, ['호돌','호호']
 
 
 
-	### 	property
+### Property
 
 - 객체 안에 있는 하나의 값
 
