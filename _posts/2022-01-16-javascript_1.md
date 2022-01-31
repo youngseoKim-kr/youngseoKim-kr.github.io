@@ -1,5 +1,5 @@
 ---
-prestudy-wecodeprestudy-wecodelayout: single
+layout: single
 title: "JavaScript[변수, 함수, 조건문, 연산자]"
 categories: JavaScript
 toc: true
