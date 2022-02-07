@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "JavaScript[객체]"
-categories: JavaScript, html, css
+categories: JavaScript
 toc: true
 author_profile: false
 sidebar:
