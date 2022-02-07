@@ -16,8 +16,6 @@ sidebar:
 
 ## HTML, CSS란 무엇이며 필요한 이유
 
-
-
 <img src="../images/2022-02-07-js_html_css/image-20220207152721419.png" alt="image-20220207152721419" style="zoom:50%;" align="left"/>
 
 **HTML**(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소로, 웹 콘텐츠의 의미와 구조를 정의할 때 사용합니다.
@@ -175,7 +173,7 @@ defer은 HTML을 파싱하다 script 태그를 만나면 async와 마찬가지�
 
 따라서 defer을 이용하여 js 파일을 연결하는것이 이상적이다.
 
-참고 : https://jae04099.tistory.com/entry/HTML-script-%ED%83%9C%EA%B7%B8%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%9C%84%EC%B9%98-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C
+[참조] : <https://jae04099.tistory.com/entry/HTML-script-%ED%83%9C%EA%B7%B8%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%9C%84%EC%B9%98-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C>
 
 ## 웹 페이지에서 일어날 수 있는 이벤트의 종류
 
@@ -193,7 +191,7 @@ defer은 HTML을 파싱하다 script 태그를 만나면 async와 마찬가지�
 
 나머지 자세한 내용은 https://developer.mozilla.org/ko/docs/Web/Events 에 전부 작성되어 있다.
 
-참조 : https://jenny-daru.tistory.com/17
+[참조] : <https://jenny-daru.tistory.com/17>
 
 
 
