@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JavaScript[객체]"
+title: "JavaScript, html, css 관계"
 categories: JavaScript html css
 toc: true
 author_profile: false
@@ -16,13 +16,15 @@ sidebar:
 
 ## HTML, CSS란 무엇이며 필요한 이유
 
-## 	
+
 
 <img src="../images/2022-02-07-js_html_css/image-20220207152721419.png" alt="image-20220207152721419" style="zoom:50%;" align="left"/>
 
 **HTML**(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소로, 웹 콘텐츠의 의미와 구조를 정의할 때 사용합니다.
 HTML은 웹 브라우저에 표시되는 글과 이미지 등의 다양한 콘텐츠를 표시하기 위해 "마크업"을 사용합니다. 
 HTML 마크업은 다양한 "요소"를 사용하는데, 요소에는 다양한 태그가 존재합니다.
+
+
 
 
 
