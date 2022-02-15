@@ -42,7 +42,9 @@ sidebar:
 
 - article, aside, footer, header, main, nav, section 등 부분의 성격에 따라 쓰는 태그들이 등장한다.
 
-<img src="../images/2022-02-14-semantic_web/image-20220214185741401.png" alt="image-20220214185741401" style="zoom:35%; float:left;" /><img src="../images/2022-02-14-semantic_web/image-20220214185845642.png" alt="image-20220214185845642" style="zoom:55%; float:right;" />
+<img src="../images/2022-02-14-semantic_web/image-20220214185741401.png" alt="image-20220214185741401" style="zoom:35%; " /><img src="../images/2022-02-14-semantic_web/image-20220214185845642.png" alt="image-20220214185845642" style="zoom:55%; " />
+
+
 
 
 
