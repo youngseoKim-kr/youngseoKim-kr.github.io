@@ -103,7 +103,7 @@ analytics:
 author:
   name: # "Your Name"
   avatar: "../images/2022-01-14-first/image-pro.png"
-  bio: "누구나 이해하기 쉬운 코드"
+  bio: '"누구나 이해하기 쉬운 코드"'
   location: "South Korea"
   email: # "ysk5754@gmail.com"
   links:
