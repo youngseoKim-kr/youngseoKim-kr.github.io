@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "위코드 풀스택 4주 회고"
+title: "위코드 풀스택, 저스트코드 4주 회고"
 categories: wecodefullstack
 toc: true
 author_profile: false
